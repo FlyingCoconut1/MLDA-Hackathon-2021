@@ -3,7 +3,7 @@ I-Care is an integrated self-care journaling mobile application that seeks to pr
 
 
 Dataset:
-We utilze 3 main datasets
+We utilize 3 main datasets
 1) Emotion data (.txt) https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp?select=test.txt
 2) Depression and suicidal data https://raw.githubusercontent.com/ayaanzhaque/SuiSense/master/data/casual_conversation_vs_depression.csv
 3) Suicidal and non-suicidal data https://www.kaggle.com/nikhileswarkomati/suicide-watch/code
